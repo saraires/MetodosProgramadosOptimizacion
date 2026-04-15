@@ -2,6 +2,12 @@
 
 Taller práctico de métodos numéricos aplicados a la optimización de funciones y localización de raíces, desarrollado en Python con Jupyter Notebook.
 
+## Integrantes
+
+- Santiago Palacio Cárdenas
+- Dayana Ramírez Areiza
+- Sarai Restrepo Rodríguez
+
 ## Contenido
 
 | Ejercicio | Tema | Función |
@@ -29,9 +35,3 @@ Taller práctico de métodos numéricos aplicados a la optimización de funcione
 - NumPy
 - SymPy
 - Matplotlib
-
-## Integrantes
-
-- Santiago Palacio Cárdenas
-- Dayana Ramírez Areiza
-- Sarai Restrepo Rodríguez
